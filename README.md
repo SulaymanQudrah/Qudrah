@@ -1,1 +1,1 @@
-# Qudrah
+# primary pupils dashboard
